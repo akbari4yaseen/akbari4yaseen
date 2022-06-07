@@ -19,9 +19,6 @@
 
 
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <!--   grid-snake -->
 ![](https://github.com/akbari4yaseen/akbari4yaseen/blob/output/github-contribution-grid-snake.svg)
 
@@ -34,7 +31,7 @@
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://api.whatsapp.com/send?phone=+93793828948" alt="Connect on WhatsApp"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
- <a href="akbari01.dev@gmail.com">
+ <a href="mailto:akbari01.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
 </p>
@@ -45,7 +42,7 @@
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbari4yaseen" alt="BEPb" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbari4yaseen" alt="Yaseen Akbari" /></a>
  </p>
 <div align="center">
  Thanks for visiting :heart:
