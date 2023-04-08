@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Yaseen Akbari
-## Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <br />
 <div align="center">
