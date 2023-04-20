@@ -46,6 +46,7 @@
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akbari01.dev@gmail.com)
 
 <br />
+
 <div align="center">
   <summary>:trophy: Github Profile Trophy</summary>
 </div>
