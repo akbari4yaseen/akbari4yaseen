@@ -24,10 +24,6 @@
 
 
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=akbari4yaseen&hide_border=true&theme=redical)
-
 ### :fire: My Stats :
 | GITHUB STATS                                                                                                                                       | MOST USED LANGUAGES                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
