@@ -1,3 +1,10 @@
+ <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ 
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&multiline=true&random=false&width=1000&height=200&lines=Welcome+to+my+GitHub+profile!;I'm+Yaseen+Akbari;a+passionate+programmer+who+loves+solving+problems.;Let's+code+and+shape+the+world+together!)](https://github.com/akbari4yaseen)
+
 # Hi there 👋 I'm Yaseen Akbari
 ## Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -32,6 +39,8 @@
 
 <br />
 
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akbari4yaseen&theme=github_dark)](https://github.com/akbari4yaseen)
+
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akbari.yaseen/)
@@ -43,13 +52,7 @@
 
 <br />
 
-<div align="center">
-  <summary>:trophy: Github Profile Trophy</summary>
-</div>
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbari4yaseen" alt="Yaseen Akbari" /></a>
- </p>
 <div align="center">
  Thanks for visiting :heart:
 </div>
